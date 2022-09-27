@@ -3,3 +3,7 @@ Hi there,
 Welcome to my new proj
 
 We manage all your calculations here
+
+Addition
+
+We will do all the additions here
