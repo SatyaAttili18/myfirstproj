@@ -1,3 +1,5 @@
 Hi there,
 
 Welcome to my new proj
+
+We manage all your calculations here
